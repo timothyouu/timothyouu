@@ -4,7 +4,7 @@
 My name is Timothy, but my friends call me Timmy!
 
 - 3rd Year Student @ CSUF
-- ChatGPT Lab Member @ OpenAI
+- Product Lab @ OpenAI
 - Figma Campus Leader @ CSUF
 
 <br>
